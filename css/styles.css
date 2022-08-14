@@ -1,0 +1,57 @@
+.root {
+    --primary-font: 'Raleway', sans-serif;
+    --secondary-font: 'Roboto', sans-serif;
+
+}
+
+/* logo */
+/* class="logo" href="/">WebStudio */
+.logo {
+color: #2196F3, #FFFFFF;
+}
+
+.site-nav .link:hover,
+.site-nav .link:focus
+{
+        list-style: none;
+        color: #2196F3;
+    }
+
+.link {
+    text-decoration: none;
+}
+
+/* hero-title h1 заголовок*/
+.hero-title {
+    color: #FFFFFF;
+}
+/* section-title h2 заголовок*/
+.hero, .section-title {
+    color: #212121;
+}
+
+/* кнопка замовити послугу*/
+
+/* footer */
+
+.map {
+    color: #FFFFFF;
+}
+.contact-phone-number {
+    color: rgba(255, 255, 255, 0.6);
+
+}
+
+
+/* fon #FFFFFF  1    #FFFFFF */
+/* fon #2F303A  2    #F5F5F5 */  
+/* fon #F5F5F5  3    #2F303A*/
+/* fon #F5F4FA  4*/
+/* fon #2F303A  5*/
+
+/* голубая кнопка и цвет #2196F3*/
+
+/* цвет заголовков #212121*/
+/* цвет тексат под заголовком  #757575*/
+/* цвет емблеиы #2196F3 #FFFFFF*/
+/* цвет текста в футоре и шапке местами rgba(255, 255, 255, 0.6) и белый #FFFFFF*/
