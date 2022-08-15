@@ -11,7 +11,6 @@
     --color-btn-active: #188CE8;
     --color-btn: #F5F4FA;
     --color-boody: #ffffff;
-    --normal-font-weding: font-weight: 400;
 
 
 }
@@ -20,7 +19,6 @@ body {
     font-family: 'Roboto', sans-serif;
     background-color: var(--color-boody);
     color: var(--primari-text-color-teme-light);
-    font-weight: var(--normal-font-weding);
 
 }
 
@@ -34,6 +32,7 @@ body {
     letter-spacing: 0.03em;
     color: var(--accent-color);
     text-decoration: none;
+
 
 }
 
@@ -128,9 +127,6 @@ body {
 }
 
 /* ADVANTAGES */
-.block {
-    background-color: var(--fon-teme-light);
-}
 
 .visually-hidden {
     position: absolute;
@@ -216,7 +212,6 @@ address {
     line-height: 1.62;
     letter-spacing: 0.03em;
     cursor: pointer;
-    background-color: var(--color-btn);
     color: var(--secondary-text-color-teme-light);
     border-color: transparent;
 }
